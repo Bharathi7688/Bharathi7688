@@ -46,3 +46,9 @@
 <img src="https://raw.githubusercontent.com/Bharathi7688/Bharathi7688/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Bharathi7688/count.svg?"  />
+</div>
+
+###
