@@ -45,10 +45,7 @@
 
 <img src="https://raw.githubusercontent.com/Bharathi7688/Bharathi7688/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Bharathi7688/count.svg?"  />
-</div>
+  
+  ![snake gif](https://github.com/Bharathi7688/Bharathi7688/blob/output/github-contribution-grid-snake.gif)
 
-###
