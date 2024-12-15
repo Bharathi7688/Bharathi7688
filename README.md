@@ -43,9 +43,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Bharathi7688/Bharathi7688/output/snake.svg" alt="Snake animation" />
+## WATCH SNAKE EATING MY GITHUB CONTRIBUTIONS
+<img src="https://github.com/Bharathi7688/Bharathi7688/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
   
-  ![snake gif](https://github.com/Bharathi7688/Bharathi7688/blob/output/github-contribution-grid-snake.gif)
+
 
