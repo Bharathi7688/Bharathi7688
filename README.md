@@ -1,6 +1,18 @@
-<h2 align="left">Hi 👋! My name is Bharathidasan and I'm a Web Developer from Tiruchirapalli</h2>
+# 👋 Hi, I'm Bharathidasan R!
+
+🚀 **Passionate Web Developer | Problem Solver | Lifelong Learner**
 
 ###
+---
+
+## 🛠️ About Me
+I'm a web developer who loves turning creative ideas into responsive, user-friendly, and scalable web applications. My journey started with an insatiable curiosity for technology and evolved into a full-fledged passion for front-end and back-end development.
+
+- 🌟 **Expertise:** HTML, CSS, JavaScript, React
+- 📘 **Learning:** TypeScript, Next.js, Tailwind CSS, Node.js, Express, MongoDB
+- 🌐 **Interests:** Building seamless user experiences, optimizing performance, and experimenting with new frameworks and technologies.
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bharathi7688&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
