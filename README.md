@@ -58,6 +58,14 @@ I'm a web developer who loves turning creative ideas into responsive, user-frien
 ## WATCH SNAKE EATING MY GITHUB CONTRIBUTIONS
 <img src="https://github.com/Bharathi7688/Bharathi7688/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Bharathi7688/count.svg?"  />
+</div>
+
+###
+
 
   
 
