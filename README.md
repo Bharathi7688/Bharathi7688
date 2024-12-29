@@ -1,4 +1,4 @@
-# 👋 Hii, I'm Bharathidasan R!
+# 👋 Hi, I'm Bharathidasan R!
 
 🚀 **Passionate Web Developer | Problem Solver | Lifelong Learner**
 
