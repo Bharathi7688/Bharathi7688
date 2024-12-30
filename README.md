@@ -65,7 +65,6 @@ I'm a web developer who loves turning creative ideas into responsive, user-frien
 </div>
 
 
-
 ###
 
 
