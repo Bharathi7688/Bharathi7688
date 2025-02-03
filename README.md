@@ -8,8 +8,8 @@
 ## 🛠️ About Me
 I'm a web developer who loves turning creative ideas into responsive, user-friendly, and scalable web applications. My journey started with an insatiable curiosity for technology and evolved into a full-fledged passion for front-end and back-end development.
 
-- 🌟 **Expertise:** HTML, CSS, JavaScript, React
-- 📘 **Learning:** TypeScript, Next.js, Tailwind CSS, Node.js, Express, MongoDB
+- 🌟 **Expertise:** HTML, CSS, JavaScript, ReactJs, Python and Java
+- 📘 **Learning:** Business Analyst , UI/UX , Kotlin, Database, C# 
 - 🌐 **Interests:** Building seamless user experiences, optimizing performance, and experimenting with new frameworks and technologies.
 
 ---
