@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bharathidasan R!
 
-🚀 **Passionate Web Developer | Problem Solver | Lifelong Learner**
+🚀 **Passionate Web Developer | Problem Solver | Lifelong Learner **
 
 ###
 ---
