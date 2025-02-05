@@ -10,7 +10,7 @@ I'm a web developer who loves turning creative ideas into responsive, user-frien
 
 - 🌟 **Expertise:** HTML, CSS, JavaScript, ReactJs, Python and Java
 - 📘 **Learning:** Business Analyst , UI/UX , Kotlin, Database, C# 
-- 🌐 **Interests:** Building seamless user experiences, optimizing performance, and experimenting with new frameworks and technologies.
+- 🌐 **Interests:** Software Development, Building seamless user experiences, optimizing performance, and experimenting with new frameworks and technologies. 
 
 ---
 
