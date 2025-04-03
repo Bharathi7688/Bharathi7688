@@ -57,7 +57,7 @@ A simple yet powerful to-do list app built with React to manage tasks efficientl
   - Persistent storage using localStorage.
   - Clean and responsive UI.
 - **Tech Stack:** React.js, JavaScript, CSS  
-- **Link:** [https://github.com/Bharathi7688/react-todo](https://github.com/Bharathi7688/react-todo) *(Replace with your actual repo)*  
+- **Link:** [https://github.com/Bharathi7688/react-todo](https://github.com/Bharathi7688/TodoList-React-App) *(Replace with your actual repo)*  
 
 ---
 
