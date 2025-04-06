@@ -34,7 +34,7 @@ A Spring Boot application that automates toll payments using RFID technology for
   - Duplicate tag prevention.
   - User mapping (e.g., `E2801191A5030065E86C81E6` → Bharathidasan).
 - **Tech Stack:** Java, Spring Boot, H2 Database, REST APIs  
-- **Link:** [https://github.com/Bharathi7688/fastag-project](https://github.com/Bharathi7688/fastag-project) *(Confirm this repo exists)*  
+- **Link:** [https://github.com/Bharathi7688/fastag-project](https://github.com/Bharathi7688/fastag-project)  
 ---
 
 ### 2. Personal Portfolio Website
@@ -45,7 +45,7 @@ A dynamic, responsive portfolio showcasing my skills with theme switching and 3D
   - 3D text animations for a modern touch.
   - Fully responsive across devices.
 - **Tech Stack:** HTML, CSS, JavaScript, Typed.js  
-- **Link:** [https://github.com/Bharathi7688/portfolio](https://github.com/Bharathi7688/portfolio) *(Confirm this repo exists)*  
+- **Link:** [https://github.com/Bharathi7688/portfolio](https://github.com/Bharathi7688/portfolio) 
 
 ---
 
@@ -57,7 +57,7 @@ A simple yet powerful to-do list app built with React to manage tasks efficientl
   - Persistent storage using localStorage.
   - Clean and responsive UI.
 - **Tech Stack:** React.js, JavaScript, CSS  
-- **Link:** [https://github.com/Bharathi7688/react-todo](https://github.com/Bharathi7688/TodoList-React-App) *(Replace with your actual repo)*  
+- **Link:** [https://github.com/Bharathi7688/react-todo](https://github.com/Bharathi7688/TodoList-React-App)   
 
 ---
 
