@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Bharathidasan R!
 
-🚀 **Passionate Web & Software Developer  |  Embedded System |  Problem Solver  |  Tech Enthusiast**
+🚀 **Aspiring Architect | Passionate Web & Software Developer  |  Embedded System |  Problem Solver  |  Tech Enthusiast**
 
 ---
 
