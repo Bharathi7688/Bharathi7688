@@ -10,8 +10,8 @@
 ## 🛠️ About Me
 I'm a web developer who thrives on creating responsive, efficient, and visually appealing applications. From front-end design to back-end logic, I enjoy every layer of the tech stack and am always eager to learn more.
 
-- 🌟 **Skills:** HTML, CSS, JavaScript, React.js, Python, Java
-- 📘 **Currently Learning:** Business Analysis, UI/UX Design, Kotlin, Databases, C#, MSSQL
+- 🌟 **Skills:** HTML, CSS, JavaScript, React.js, Python, Java, Software Testing, UI/UX Design, Product Management
+- 📘 **Currently Learning:** Business Analysis, Databases, C#, MSSQL, Advanced UI/UX Design
 - 🌐 **Interests:** Software & Web Development, Performance Optimization, Emerging Technologies  
 
 ---
