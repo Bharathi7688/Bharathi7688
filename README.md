@@ -24,42 +24,7 @@ I'm a web developer who thrives on creating responsive, efficient, and visually 
 
 ---
 
-## 🚗 My Projects
 
-### 1. FASTag Toll Collection System
-A Spring Boot application that automates toll payments using RFID technology for a seamless experience.
-
-- **Features:**
-  - Real-time RFID tag detection.
-  - Duplicate tag prevention.
-  - User mapping (e.g., `E2801191A5030065E86C81E6` → Bharathidasan).
-- **Tech Stack:** Java, Spring Boot, H2 Database, REST APIs  
-- **Link:** [https://github.com/Bharathi7688/fastag-project](https://github.com/Bharathi7688/fastag-project)  
----
-
-### 2. Personal Portfolio Website
-A dynamic, responsive portfolio showcasing my skills with theme switching and 3D animations.
-
-- **Features:**
-  - Dark mode (`#32cd32` lime green) and light mode (`#4b5efa` indigo).
-  - 3D text animations for a modern touch.
-  - Fully responsive across devices.
-- **Tech Stack:** HTML, CSS, JavaScript, Typed.js  
-- **Link:** [https://github.com/Bharathi7688/portfolio](https://github.com/Bharathi7688/portfolio) 
-
----
-
-### 3. React To-Do List
-A simple yet powerful to-do list app built with React to manage tasks efficiently.
-
-- **Features:**
-  - Add, edit, and delete tasks.
-  - Persistent storage using localStorage.
-  - Clean and responsive UI.
-- **Tech Stack:** React.js, JavaScript, CSS  
-- **Link:** [https://github.com/Bharathi7688/react-todo](https://github.com/Bharathi7688/TodoList-React-App)   
-
----
 
 ## 🧰 Tech Stack
 <div align="left">
