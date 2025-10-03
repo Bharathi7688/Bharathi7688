@@ -118,8 +118,8 @@ I'm a passionate and dedicated software developer with expertise in full-stack w
 |---------------|----------|------|---------|
 | **Full Stack Web Development** | Udemy | 2024 | ✅ Completed |
 | **Java Programming Masterclass** | MSME-TDC | 2022 | ✅ Completed |
-| **Flutter & Dart Development** | Self-Learning | 2024 | 🚧 In Progress |
-| **C# & .NET Framework** | Self-Learning | 2024 | 🚧 In Progress |
+| **Flutter & Dart Development** | Self-Learning | 2025 | 🚧 In Progress |
+| **C# & .NET Framework** | Self-Learning | 2025 | 🚧 In Progress |
 
 </div>
 
