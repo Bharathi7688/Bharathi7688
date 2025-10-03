@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bharathidasan R!
+#  Hi I am Bharathidasan R!
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I'm a passionate and dedicated software developer with expertise in full-stack web development, mobile application development, and cross-platform solutions. I love transforming complex problems into simple, beautiful, and intuitive solutions. With a strong foundation in both front-end and back-end technologies, I'm constantly exploring new frameworks and tools to enhance my skill set.
 
