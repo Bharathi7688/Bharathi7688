@@ -235,5 +235,3 @@ I'm a passionate and dedicated software developer with expertise in full-stack w
 </div>
 
 ---
-
-*Last Updated: ${new Date().toLocaleDateString()}*
