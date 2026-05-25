@@ -20,6 +20,24 @@ I'm a passionate and dedicated software developer with expertise in full-stack w
 
 ---
 
+# 💼 Work Experience
+
+### 🏢 Software Engineer — Tenxity Solutions Private Limited
+📍 Chennai, India  
+📅 2025 - Present
+
+- Working as a Full Stack Developer on enterprise-level web applications
+- Developing responsive UI components using Angular, HTML, CSS, TypeScript, and Bootstrap
+- Building and integrating REST APIs with backend services
+- Working with databases including MSSQL and MySQL
+- Performing UI testing, functional testing, and bug fixing
+- Collaborating with developers, testers, and designers in Agile workflows
+- Implementing authentication, role-based access control, and workflow management modules
+- Participating in API integration, debugging, optimization, and production support
+- Using Git, Postman, and modern development tools for efficient software delivery
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -60,20 +78,27 @@ I'm a passionate and dedicated software developer with expertise in full-stack w
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### 🗄️ **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### ☁️ **Cloud & DevOps**
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Cloud%20Services-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ### 🛠️ **Development Tools**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -81,6 +106,8 @@ I'm a passionate and dedicated software developer with expertise in full-stack w
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
 
 ---
 
@@ -110,6 +137,15 @@ I'm a passionate and dedicated software developer with expertise in full-stack w
 ---
 
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bharathi7688&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 ## 🎓 Certifications & Learning Path
 
 <div align="center">
