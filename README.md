@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bharathidasan%20R&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Bharathidasan R — Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bharathidasan%20R&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20and%20Mobile%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Bharathidasan R — Software Engineer"/>
 
 <a href="https://github.com/Bharathi7688">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Angular+%2B+TypeScript+on+the+front;REST+APIs+%2B+SQL+on+the+back;Flutter+%26+Dart+for+mobile;Learning+C%23%2C+.NET+Core+%26+Azure;Clean+code.+Clear+UX.+Real+impact." alt="Typing intro"/>
