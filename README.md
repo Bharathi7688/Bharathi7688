@@ -222,17 +222,17 @@ Native Android app built with Kotlin, alongside my Flutter mobile work.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bharathi7688&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathi7688&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Bharathi7688&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub stats"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Bharathi7688&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages"/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathi7688&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" alt="GitHub streak"/>
+<img width="80%" src="https://streak-stats.demolab.com/?user=Bharathi7688&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" alt="GitHub streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bharathi7688&custom_title=Contribution%20Activity&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true" alt="Activity graph"/>
+<img width="100%" src="https://ghchart.rshah.org/7c3aed/Bharathi7688" alt="Contribution heatmap"/>
 
 <details>
 <summary>🏆 <b>Trophies</b></summary>
 <br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bharathi7688&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies"/></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=Bharathi7688&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies"/></a>
 </details>
 
 </div>
